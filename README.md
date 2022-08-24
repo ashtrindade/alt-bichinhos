@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/ashtrindade/altbichinhos/blob/main/LICENSE.md"><img alt="License MIT" src="https://img.shields.io/apm/l/atomic-design-ui.svg?"></a>
-<a href="https://rapidapi.com/ashtrindade/api/altbichinhos"><img alt="Rapid API" src="https://img.shields.io/badge/-RapidAPI-1d4371"></a>
+<a href="https://rapidapi.com/ashtrindade/api/alt-bichinhos"><img alt="Rapid API" src="https://img.shields.io/badge/-RapidAPI-1d4371"></a>
 </p>
 
 # Alt Bichinhos API <a href="https://www.buymeacoffee.com/onlyashd"><img src="https://i.imgur.com/f1dRT70.png" alt="Buy me a coffee" width=125></a>
