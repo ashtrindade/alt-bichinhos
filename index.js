@@ -5,7 +5,7 @@ const data = require('./data/data').data
 
 // API Homepage
 app.get('/', (req, res) => {
-    res.json('Bem vinde à Alt Bichinhos API! Uma coleção de imagens de pets com texto alternativo! || Welcome to the Alt Pets API! A collection of pet images with alt text!')
+    res.json('Bem vinde à Alt Bichinhos API! Uma coleção de imagens de pets com texto alternativo!  Welcome to the Alt Pets API! A collection of pet images with alt text!')
 })
 
 // Portuguese Endpoint
