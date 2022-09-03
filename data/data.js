@@ -1355,6 +1355,174 @@ const data = [
     "altPT": "Foto tirada de cima mostrando um gatinho laranja sentado, virado para a direita. Nas suas costas, uma mochilinha azul com uma estampa do mapa mundi.",
     "altEN": "Photo taken from above showing an orange kitten sitting, facing right. On his back, a blue backpack with a print of the world map."
   },
+  {
+    "id": "0227",
+    "file": "https://i.imgur.com/uficBAb.jpg",
+    "altPT": "Foto de uma mamãe capivara com sete filhotes. Eles estão deitados numa cama de feno. Capivaras são grandes roedores, inofensivos, de pelo marrom a aparência fofa.",
+    "altEN": "Photo of a mother capybara with seven cubs. They are lying on a bed of hay. Capybaras are large, harmless rodents with brown fur and fluffy appearance."
+  },
+  {
+    "id": "0228",
+    "file": "https://i.imgur.com/TXq8bOg.png",
+    "altPT": "Foto de um gato laranja muito peludo com cara de bravo. Ele está numa caixinha azul ao lado de um prato alimentador rosa.",
+    "altEN": "Photo of a very furry orange cat with an angry face. It's in a blue box next to a pink feeding plate."
+  },
+  {
+    "id": "0229",
+    "file": "https://i.imgur.com/cVRYx5Z.png",
+    "altPT": "Foto de um filhote de gato branco e peludo. Ele faz cara de choro com seus olhos grandes. Ele está sentado num tecido roxo.",
+    "altEN": "Photo of a furry white kitten. He makes a crying face with his big eyes. He's sitting on a purple cloth."
+  },
+  {
+    "id": "0230",
+    "file": "https://i.imgur.com/1YMyMnl.jpg",
+    "altPT": "Foto de um cão Corgi filhote deitado de barriga para cima num tapete felpudo cinza. Ele tem a boca aberta numa expressão feliz.",
+    "altEN": "Photo of a puppy Corgi dog lying on its back on a gray shag rug. He has his mouth open in a happy expression."
+  },
+  {
+    "id": "0231",
+    "file": "https://i.imgur.com/EaClQ2r.jpg",
+    "altPT": "Foto de um panda vermelho em cima de um tronco. Ele está com a boca aberta como num sorriso.",
+    "altEN": "Photo of a red panda on top of a log. He has his mouth open as if in a smile."
+  },
+  {
+    "id": "0232",
+    "file": "https://i.imgur.com/QXlhhUH.jpg",
+    "altPT": "Foto de um furão branco na neve. Ele está de pé olhando para a câmera numa expressão séria.",
+    "altEN": "Photo of a white ferret in the snow. He is standing looking at the camera with a serious expression."
+  },
+  {
+    "id": "0233",
+    "file": "https://i.imgur.com/2jSjAgr.jpg",
+    "altPT": "Foto de um filhote de foca na neve. Ele tem o pelo cinza e branco, olhos grandes e pretos. Ele olha para a câmera serenamente.",
+    "altEN": "Photo of a baby seal in the snow. He has gray and white fur, big black eyes. He looks at the camera serenely."
+  },
+  {
+    "id": "0234",
+    "file": "https://i.imgur.com/Suqp1Mu.jpg",
+    "altPT": "Foto de uma lontra com as mão juntas perto da boca. Ela tem olhos marrons, pelo escuro e tem uma expressão triste.",
+    "altEN": "Photo of an otter with its hands together near its mouth. She has brown eyes, dark fur and a sad expression."
+  },
+  {
+    "id": "0235",
+    "file": "https://i.imgur.com/ehXWRT7.jpg",
+    "altPT": "Foto de uma raposa vermelha sentada num corrimão de madeira. Ela está com os olhos fechados e a boca aberta com a língua para fora. Ao fundo uma floresta.",
+    "altEN": "Photo of a red fox sitting on a wooden banister. She has her eyes closed and her mouth open with her tongue sticking out. In the background a forest."
+  },
+  {
+    "id": "0236",
+    "file": "https://i.imgur.com/LnjAXIT.jpg",
+    "altPT": "Foto de um guepardo bem de perto, como se ele estivesse tirando uma selfie. Ele tem o focinho preto, olhos amarelos e uma expressão de curiosidade.",
+    "altEN": "Close-up photo of a cheetah, as if he was taking a selfie. He has a black muzzle, yellow eyes and a curious expression."
+  },
+  {
+    "id": "0237",
+    "file": "https://i.imgur.com/XM8mmJM.jpg",
+    "altPT": "Foto de um Quokka com uma folha na boca. Ele está de pé na areia e olha para a câmera feliz. Ao fundo uma floresta. O quokka, também conhecido como wallaby de cauda curta, é um pequeno macrópode do tamanho de um gato doméstico.",
+    "altEN": "Photo of a Quokka with a leaf in its mouth. He is standing on the sand and looking at the camera happily. In the background a forest. The quokka, also known as the short-tailed wallaby, is a small macropod about the size of a house cat."
+  },
+  {
+    "id": "0238",
+    "file": "https://i.imgur.com/9UMQCnl.png",
+    "altPT": "Foto de um guepardo filhote lambendo a boca. Ele olha para a direita com uma expressão curiosa.",
+    "altEN": "Photo of a baby cheetah licking its mouth. He looks to the right with a curious expression."
+  },
+  {
+    "id": "0239",
+    "file": "https://i.imgur.com/Kk7cpJS.jpg",
+    "altPT": "Foto de um filhote de labrador ao vento. Ele está sentado na grama, próximo à uma praia, e está com os olhos fechados por causa do vento.",
+    "altEN": "Photo of a labrador puppy in the wind. He's sitting on the grass, next to a beach, and his eyes are closed against the wind."
+  },
+  {
+    "id": "0240",
+    "file": "https://i.imgur.com/RkoCPUg.jpg",
+    "altPT": "Foto de uma lhama de pelo branco olhando para a câmera. Ela tem uma expressão feliz. Ao fundo uma fazenda.",
+    "altEN": "Photo of a white fur llama looking at the camera. She has a happy expression. In the background a farm."
+  },
+  {
+    "id": "0241",
+    "file": "https://i.imgur.com/v7tHjwA.jpg",
+    "altPT": "Foto de um filhote de urso polar na neve. Ele está sentado e tem as mãos juntas próximo da boca.",
+    "altEN": "Photo of a polar bear cub in the snow. He is seated and has his hands together near his mouth."
+  },
+  {
+    "id": "0242",
+    "file": "https://i.imgur.com/yM1SJrB.jpg",
+    "altPT": "Foto de uma lontra de pé numa pedra com duas pedras pequenas nas mãos. Ele tem o pelo marrom no corpo e branco no peito. Ao fundo um rio.",
+    "altEN": "Photo of an otter standing on a rock with two small rocks in its hands. He has brown fur on his body and white on his chest. In the background a river."
+  },
+  {
+    "id": "0243",
+    "file": "https://i.imgur.com/uCj6WHt.jpg",
+    "altPT": "Foto de um filhote de pinguim na neve. Ele tem o pelo cinza e preto. Ele está com os olhos fechados. Mais pinguins ao fundo.",
+    "altEN": "Photo of a penguin chick in the snow. He has gray and black fur. He has his eyes closed. More penguins in the background."
+  },
+  {
+    "id": "0244",
+    "file": "https://i.imgur.com/W8D24Yn.jpg",
+    "altPT": "Foto de cima de um cão husky sentado no asfalto olhando para  câmera. Ele tem o pelo preto e branco, focinho longo e uma expressão feliz.",
+    "altEN": "Top shot of a husky dog sitting on the asphalt looking at camera. He has black and white fur, a long snout and a happy expression."
+  },
+  {
+    "id": "0245",
+    "file": "https://i.imgur.com/IDeMPdt.jpg",
+    "altPT": "Foto de um gato laranja no colo de uma pessoa. Ele está um o lado direito do rosto amassado como se estivesse muito vento. Ao fundo ha casas.",
+    "altEN": "Photo of an orange cat on a person's lap. He's got the right side of his face crumpled as if it's been too windy. In the background there are houses."
+  },
+  {
+    "id": "0246",
+    "file": "https://i.imgur.com/OYL8weu.jpg",
+    "altPT": "Foto de um filhote de gato preto e branco sentado num degrau de escada com carpete cinza.",
+    "altEN": "Photo of a black and white kitten sitting on a stair step with gray carpet."
+  },
+  {
+    "id": "0247",
+    "file": "https://i.imgur.com/OjRvTKR.jpg",
+    "altPT": "Foto de um gato branco sentado numa cama. Ele está sob uma luz roxa e tem uma expressão de susto.",
+    "altEN": "Photo of a white cat sitting on a bed. He is under a purple light and has a startled expression."
+  },
+  {
+    "id": "0248",
+    "file": "https://i.imgur.com/n6OlWKK.jpg",
+    "altPT": "Foto de um cão Lulu da pomerânia branco. Ele tem seu pelo cortado arredondado que o deixa parecendo um ovo. Ele está com a boca aberta e parece feliz.",
+    "altEN": "Photo of a white Pomeranian dog Lulu. He has a rounded cut coat that makes him look like an egg. He has his mouth open and looks happy."
+  },
+  {
+    "id": "0249",
+    "file": "https://i.imgur.com/yXxeHs9.png",
+    "altPT": "Foto de perto de um cão Husky. Seu focinho e pelo preto e branco está com alguns flocos de neve. Ele olha fixamente para a câmera.",
+    "altEN": "Close up photo of a Husky dog. His muzzle and black and white fur are covered in snowflakes. He stares at the camera."
+  },
+  {
+    "id": "0250",
+    "file": "https://i.imgur.com/4YS0Zr9.jpg",
+    "altPT": "Foto de uma mamãe gato e seu filhote. Eles têm o pelo cinza e estão sentados numa poltrona de feltro branco.",
+    "altEN": "Photo of a mother cat and her kitten. They have gray fur and are sitting in a white felt armchair."
+  },
+  {
+    "id": "0251",
+    "file": "https://i.imgur.com/nCVwxdN.jpg",
+    "altPT": "Foto de um pássaro pequeno de penas brancas em um galho de árvore. Ele tem olhos pretos com penas amarelas redor e um bico pequeno e preto.",
+    "altEN": "Photo of a small white-feathered bird on a tree branch. It has black eyes with yellow feathers around it and a small, black beak."
+  },
+  {
+    "id": "0252",
+    "file": "https://i.imgur.com/9I0Wy54.jpg",
+    "altPT": "Foto de um gato laranja com asas de fada. Ele olha para uma luz na direita. Ele tem olhos marrons e focinho rosa.",
+    "altEN": "Photo of an orange cat with fairy wings. He looks at a light on the right. He has brown eyes and a pink muzzle."
+  },
+  {
+    "id": "0253",
+    "file": "https://i.imgur.com/DNUL7eZ.jpg",
+    "altPT": "Foto de um tubarão branco em meio à peixes pequenos. Ele está com a boca meio aberta e tem uma expressão feliz.",
+    "altEN": "Photo of a white shark among small fish. He has his mouth half open and has a happy expression."
+  },
+  {
+    "id": "0254",
+    "file": "https://i.imgur.com/73cDOJa.jpg",
+    "altPT": "Foto de um guaxinim de pé ao lado de uma pintura pequena. Ele aponta para a pintura com sua pata direita como se para mostrar que ele a pintou.",
+    "altEN": "Photo of a raccoon standing next to a small painting. He points at the painting with his right paw as if to show that he has painted it."
+  },
 ]
 
 module.exports.data = data

@@ -10,7 +10,7 @@
 Welcome to the Alt Pets API! A collection of pet images with alt text!
 
 - Monthly updates. 
-- Currently **226** images.
+- Currently **254** images.
 - More languages coming in the future. 
 
 ### Feel free to submit your pet to our <a href="https://twitter.com/altbichinhos">Tweet account.</a> Pre-writen alt text are aways apretiated ♥.
