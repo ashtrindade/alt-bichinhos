@@ -11,7 +11,7 @@ Welcome to the Alt Pets API! A collection of pet images with alt text!
 
 - Monthly updates. 
 - Currently **254** images.
-- More languages coming in the future. 
+- More languages coming in the future. **Spanish coming soon!**
 
 ### Feel free to submit your pet to our <a href="https://twitter.com/altbichinhos">Tweet account.</a> Pre-writen alt text are aways apretiated ♥.
 <a href="https://twitter.com/altbichinhos"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/altbichinhos?label=%40altbichinhos&style=social"></a>
@@ -19,8 +19,21 @@ Welcome to the Alt Pets API! A collection of pet images with alt text!
 ---
 
 ## Endpoints
-### Choose the language endpoint and receive an image with alt text:
-**English:**
+### You can choose the main endpoint with all languages:
+
+```json
+[
+  {
+    "id": "0095",
+    "file": "https://i.imgur.com/kb4E82F.png",
+    "portuguese": "A foto mostra um cachorro preto longo e magro, bem peludo. Está deitado de costas, com a cabeça para a direita. Em sua barriga, bem encolhido, está um gatinho também preto. Ele é bem pequeno e encara a câmera com seus olhinhos verdes. Estão deitados no chão, em cima de um tapete azul e branco.",
+    "english": "The photo shows a long, skinny, very hairy black dog. He is lying on his back with his head to the right. In her belly, well shrunk, is a black kitten. He is very small and stares at the camera with his little green eyes. They are lying on the floor, on top of a blue and white rug.",
+  }
+]
+```
+### Or an especifc language:
+
+**English Endpoint:**
 ```json
 [
   {
@@ -31,13 +44,13 @@ Welcome to the Alt Pets API! A collection of pet images with alt text!
 ]
 ```
 
-**Brazilian Portuguese:**
+**Brazilian Portuguese Endpoint:**
 ```json
 [
   {
     "id": "0095",
     "file": "https://i.imgur.com/kb4E82F.png",
-    "altPT": "A foto mostra um cachorro preto longo e magro, bem peludo. Está deitado de costas, com a cabeça para a direita. Em sua barriga, bem encolhido, está um gatinho também preto. Ele é bem pequeno e encara a câmera com seus olhinhos verdes. Estão deitados no chão, em cima de um tapete azul e branco."
+    "alt": "A foto mostra um cachorro preto longo e magro, bem peludo. Está deitado de costas, com a cabeça para a direita. Em sua barriga, bem encolhido, está um gatinho também preto. Ele é bem pequeno e encara a câmera com seus olhinhos verdes. Estão deitados no chão, em cima de um tapete azul e branco."
   }
 ]
 ```
