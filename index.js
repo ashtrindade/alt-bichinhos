@@ -16,8 +16,9 @@ app.get('/all', (req, res) => {
 
     // Get random file + alt text from id
     let file = data[pet].file
-    let portuguese = data[pet].altPT
-    let english = data[pet].altEN
+    let portuguese = data[pet].portuguese
+    let english = data[pet].english
+    let spanish = data[pet].spanish
 
     // Push itens to front-end
     let random = []
@@ -26,6 +27,7 @@ app.get('/all', (req, res) => {
         file: file,
         portuguese: portuguese,
         english: english,
+        spanish: spanish,
     })
 
     res.json(random)
@@ -39,14 +41,15 @@ app.get('/pt', (req, res) => {
 
     // Get random file + alt text from id
     let file = data[pet].file
-    let alt = data[pet].altPT
+    let portuguese = data[pet].portuguese
 
     // Push itens to front-end
     let random = []
     random.push({
         id: id,
         file: file,
-        alt: alt,
+        alt: portuguese
+
     })
 
     res.json(random)
@@ -60,14 +63,35 @@ app.get('/en', (req, res) => {
 
     // Get random file + alt text from id
     let file = data[pet].file
-    let alt = data[pet].altEN
+    let english = data[pet].english
 
     // Push itens to front-end
     let random = []
     random.push({
         id: id,
         file: file,
-        alt: alt,
+        alt: english,
+    })
+
+    res.json(random)
+})
+
+// Spanish Endpoint
+app.get('/es', (req, res) => {
+    // Get random id
+    let id = data[Math.floor(Math.random() * data.length)].id
+    let pet = data.findIndex((img) => img.id == id)
+
+    // Get random file + alt text from id
+    let file = data[pet].file
+    let spanish = data[pet].spanish
+
+    // Push itens to front-end
+    let random = []
+    random.push({
+        id: id,
+        file: file,
+        alt: spanish,
     })
 
     res.json(random)
