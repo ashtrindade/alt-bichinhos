@@ -2078,7 +2078,591 @@ const data = [
     "english": "Photo of a very furry orange cat. He has green eyes and is sitting looking to the left of the camera.",
     "spanish": "Foto de un gato naranja muy peludo. Tiene los ojos verdes y está sentado mirando a la izquierda de la cámara.",
     "german": "Foto einer sehr pelzigen orange Katze. Er hat grüne Augen und sitzt links neben der Kamera."
-  }
+  },
+  {
+    "id": "0261",
+    "file": "https://i.imgur.com/PCAw2IO.jpg",
+    "portuguese": "Foto de um filhote de gato deitado no colo de uma pessoa. O gato é marrom com listras pretas e a barriga branca. Ele está deitado de barriga para cima com uma expressão feliz.",
+    "english": "Photo of a kitten lying on a person's lap. The cat is brown with black stripes and a white belly. He is lying on his back with a happy expression.",
+    "spanish": "Foto de un gatito acostado en el regazo de una persona. El gato es marrón con rayas negras y un vientre blanco. Él está acostado boca arriba con una expresión feliz.",
+    "german": "Foto eines Kätzchens, das auf dem Schoß einer Person liegt. Die Katze ist braun mit schwarzen Streifen und einem weißen Bauch. Er liegt mit einem glücklichen Ausdruck auf dem Rücken."
+  },
+  {
+    "id": "0262",
+    "file": "https://i.imgur.com/UQEYrBl.jpg",
+    "portuguese": "Foto de dois gatinhos abraçados. O da esquerda é maior, já adulto, bege meio alaranjado com manchas pretas e olhos verdes. Ele segura o filhote com as duas patinhas dianteiras pela barriga. O filhote é bem semelhante ao maior, porém possui o pelo mais claro. Seus olhos são azuis e estão arregalados.",
+    "english": "Photo of two embracing kittens. The one on the left is larger, already an adult, half-orange beige with black spots and green eyes. He holds the puppy with both front paws by the belly. The puppy is very similar to the larger one, but has lighter fur. His eyes are blue and wide.",
+    "spanish": "Foto de dos gatitos abrazados. El de la izquierda es más grande, ya adulto, beige medio anaranjado con manchas negras y ojos verdes. Sostiene al cachorro con ambas patas delanteras por el vientre. El cachorro es muy similar al más grande, pero tiene un pelaje más claro. Sus ojos son azules y muy abiertos.",
+    "german": "Foto von zwei umarmenden Kätzchen. Der linke ist größer, schon erwachsen, halb orange-beige mit schwarzen Flecken und grünen Augen. Er hält den Welpen mit beiden Vorderpfoten am Bauch. Der Welpe ist dem größeren sehr ähnlich, hat aber ein helleres Fell. Seine Augen sind blau und weit."
+  },
+  {
+    "id": "0263",
+    "file": "https://i.imgur.com/AvizTOJ.jpg",
+    "portuguese": "Foto de dois ratinhos brancos em uma pequena rede preta. O da direita é um pouco mais gordo e está levemente abaixado, com o olho esquerdo meio fechado. O da esquerda é mais magro e possui o pelo muito ralo, sendo quase pelado. Ele recosta sua cabeça no topo da cabeça do amigo e levanta a patinha esquerda.",
+    "english": "Photo of two white mice in a small black net. The one on the right is a little fatter and is slightly bent over, with the left eye half closed. The one on the left is thinner and has very thin fur, being almost naked. He leans his head on top of his friend's head and lifts his left paw.",
+    "spanish": "Foto de dos ratones blancos en una pequeña red negra. El de la derecha es un poco más gordo y ligeramente encorvado, con el ojo izquierdo medio cerrado. El de la izquierda es más delgado y tiene un pelaje muy fino, estando casi desnudo. Apoya su cabeza sobre la cabeza de su amigo y levanta su pata izquierda.",
+    "german": "Foto von zwei weißen Mäusen in einem kleinen schwarzen Netz. Der rechte ist etwas dicker und leicht vornübergebeugt, das linke Auge halb geschlossen. Der linke ist dünner und hat ein sehr dünnes Fell und ist fast nackt. Er lehnt seinen Kopf auf den Kopf seines Freundes und hebt seine linke Pfote."
+  },
+  {
+    "id": "0264",
+    "file": "https://i.imgur.com/5x3RHXD.jpg",
+    "portuguese": "Foto tirada do alto mostrando um gatinho em uma posição na qual ele não está nem completamente de pé, nem completamente sentado. Ele é laranja, mas seu peito, focinho e patas são brancos. Seus olhos verdes olham para além da câmera e sua boca está entreaberta, como se ele estivesse em espera. Seu rabinho está para cima e suas orelhas são grandes, desproporcionais à sua cabeça.",
+    "english": "Photo taken from above showing a kitten in a position in which it is neither fully standing nor fully seated. He is orange, but his chest, snout and paws are white. His green eyes look past the camera and his mouth is slightly open, as if he's been on hold. Its tail is up and its ears are large, disproportionate to its head.",
+    "spanish": "Foto tomada desde arriba que muestra a un gatito en una posición en la que no está completamente parado ni completamente sentado. Es naranja, pero su pecho, hocico y patas son blancos. Sus ojos verdes miran más allá de la cámara y su boca está ligeramente abierta, como si hubiera estado en espera. Su cola está levantada y sus orejas son grandes, desproporcionadas con respecto a su cabeza.",
+    "german": "Von oben aufgenommenes Foto, das ein Kätzchen in einer Position zeigt, in der es weder vollständig steht noch vollständig sitzt. Er ist orange, aber Brust, Schnauze und Pfoten sind weiß. Seine grünen Augen blicken an der Kamera vorbei und sein Mund ist leicht geöffnet, als wäre er in der Warteschleife. Sein Schwanz ist hoch und seine Ohren sind groß und stehen in keinem Verhältnis zu seinem Kopf."
+  },
+  {
+    "id": "0265",
+    "file": "https://i.imgur.com/TczPalY.jpg",
+    "portuguese": "Foto tirada do alto mostrando dois gatinhos. O de cima é grande e gordo, laranja e bem peludo. Seus olhos estão bem dilatados e ele encara algo além da câmera com cara de atenção. Está deitado de lado, mas como se estivesse pronto para se levantar. O de baixo está levemente afastado, da diagonal do outro gato. Ele é pequeno, menor do que a metade do amigo. É magro e com o pelo cinza, com manchas pretas. Para olhar para a câmera ele tem que virar quase todo o pescoço para cima, e suas orelhas são bem grandes.",
+    "english": "Photo taken from above showing two kittens. The top one is big and fat, orange and very hairy. His eyes are very dilated and he stares at something beyond the camera with a look of attention. He's lying on his side, but like he's ready to get up. The bottom one is slightly away from the diagonal of the other cat. He is small, smaller than half of his friend. He is thin and gray fur with black spots. To look at the camera he has to turn his neck almost all the way up, and his ears are pretty big.",
+    "spanish": "Foto tomada desde arriba que muestra dos gatitos. El de arriba es grande y gordo, naranja y muy peludo. Sus ojos están muy dilatados y mira algo más allá de la cámara con una mirada de atención. Está acostado de lado, pero como si estuviera listo para levantarse. El de abajo está ligeramente alejado de la diagonal del otro gato. Es pequeño, más pequeño que la mitad de su amigo. Es de pelaje fino y gris, con manchas negras. Para mirar a la cámara tiene que girar el cuello casi completamente hacia arriba y sus orejas son bastante grandes.",
+    "german": "Von oben aufgenommenes Foto mit zwei Kätzchen. Der obere ist groß und fett, orange und sehr behaart. Seine Augen sind sehr geweitet und er starrt mit einem aufmerksamen Blick auf etwas hinter der Kamera. Er liegt auf der Seite, aber als wollte er aufstehen. Die untere ist etwas von der Diagonale der anderen Katze entfernt. Er ist klein, kleiner als die Hälfte seines Freundes. Es ist ein dünnes und graues Fell mit schwarzen Flecken. Um in die Kamera zu schauen, muss er seinen Hals fast ganz nach oben drehen, und seine Ohren sind ziemlich groß."
+  },
+  {
+    "id": "0266",
+    "file": "https://i.imgur.com/KOXh44L.png",
+    "portuguese": "Foto de um panda vermelho dormindo em uma casinha em uma árvore. Ele não é muito grande, e a casinha parece um ninho grande e com teto.",
+    "english": "Photo of a red panda sleeping in a little house in a tree. He's not very big, and the little house looks like a big, roofed nest.",
+    "spanish": "Foto de un panda rojo durmiendo en una casita en un árbol. No es muy grande, y la casita parece un gran nido techado.",
+    "german": "Foto eines roten Pandas, der in einem kleinen Haus in einem Baum schläft. Er ist nicht sehr groß, und das Häuschen sieht aus wie ein großes, überdachtes Nest."
+  },
+  {
+    "id": "0267",
+    "file": "https://i.imgur.com/GYYE9i1.jpg",
+    "portuguese": "Foto de uma mão segurando um morceguinho. Ele está de cabeça para baixo e encara a câmera. Só é possível ver sua cabeça e parte de suas asinhas. O fundo é todo branco.",
+    "english": "Photo of a hand holding a bat. He is upside down and facing the camera. You can only see his head and part of his wings. The background is all white.",
+    "spanish": "Fotografía de una mano sujetando un bate. Él está boca abajo y frente a la cámara. Solo es posible ver su cabeza y parte de sus alas. El fondo es todo blanco.",
+    "german": "Foto einer Hand, die einen Schläger hält. Er steht auf dem Kopf und blickt in die Kamera. Man sieht nur seinen Kopf und einen Teil seiner Flügel. Der Hintergrund ist ganz weiß."
+  },
+  {
+    "id": "0268",
+    "file": "https://i.imgur.com/VknHk2W.jpg",
+    "portuguese": "Foto de um morceguinho comendo uma fruta. Ele está bem próximo da câmera e morde a fruta vermelha enquanto olha para ela. O fundo está desfocado.",
+    "english": "Photo of a little bat eating a fruit. He is very close to the camera and bites the red fruit while looking at it. The background is blurred.",
+    "spanish": "Foto de un pequeño murciélago comiendo una fruta. Está muy cerca de la cámara y muerde la fruta roja mientras la mira. El fondo está borroso.",
+    "german": "Foto einer kleinen Fledermaus, die eine Frucht isst. Er ist ganz nah an der Kamera und beißt die rote Frucht, während er sie ansieht. Der Hintergrund ist verschwommen."
+  },
+  {
+    "id": "0269",
+    "file": "https://i.imgur.com/CmPe74M.png",
+    "portuguese": "Foto de um cachorrinho na neve. Ele é filhote, com o pelo bege ralo e o focinho preto sujo de neve. Está de pé e usa uma coleira preta.",
+    "english": "Photo of a puppy in the snow. He is a puppy, with thin beige fur and a black muzzle smeared with snow. He is standing and wearing a black collar.",
+    "spanish": "Foto de un cachorro en la nieve. Es un cachorro, de fino pelaje beige y hocico negro manchado de nieve. Está de pie y lleva un collar negro.",
+    "german": "Foto eines Welpen im Schnee. Er ist ein Welpe mit dünnem beigefarbenem Fell und einer schwarzen, schneeverschmierten Schnauze. Er steht und trägt ein schwarzes Halsband."
+  },
+  {
+    "id": "0270",
+    "file": "https://i.imgur.com/T3hxjwD.jpg",
+    "portuguese": "Foto de um cachorro da raça Pastor Alemão sentado perto do mar. Ele tem uma coleira marrom e segura uma faixa vermelha escrito \"segundo lugar\" com a boca. Ao fundo, pedras e pedaços de madeira.",
+    "english": "Photo of a German Shepherd dog sitting by the sea. He has a brown collar and holds a red \"second place\" band in his mouth. In the background, stones and pieces of wood.",
+    "spanish": "Foto de un perro pastor alemán sentado junto al mar. Tiene un collar marrón y tiene una banda roja de \"segundo lugar\" en la boca. Al fondo, piedras y trozos de madera.",
+    "german": "Foto eines deutschen Schäferhundes, der am Meer sitzt. Er hat ein braunes Halsband und hält ein rotes \"Zweitplatz\"-Band im Mund. Im Hintergrund Steine ​​und Holzstücke."
+  },
+  {
+    "id": "0271",
+    "file": "https://i.imgur.com/iDXo8za.png",
+    "portuguese": "Uma gata cinza e seu filhote deitados num muro de tijolos. A mãe tem uma expressão brava e tem olhos verdes. O filhote tem uma expressão de curiosidade e  olhos azuis. No fundo um vaso de flores vermelhas.",
+    "english": "A gray cat and her kitten lying on a brick wall. The mother has an angry expression and has green eyes. The puppy has a curious expression and blue eyes. In the background a vase of red flowers.",
+    "spanish": "Un gato gris y su gatito tirados en una pared de ladrillos. La madre tiene una expresión de enojo y tiene ojos verdes. El cachorro tiene una expresión curiosa y ojos azules. Al fondo un jarrón de flores rojas.",
+    "german": "Eine graue Katze und ihr Kätzchen, die auf einer Backsteinmauer liegen. Die Mutter hat einen wütenden Ausdruck und grüne Augen. Der Welpe hat einen neugierigen Ausdruck und blaue Augen. Im Hintergrund eine Vase mit roten Blumen."
+  },
+  {
+    "id": "0272",
+    "file": "https://i.imgur.com/0Tz5yFq.png",
+    "portuguese": "Foto de um guaxinim deitado em uma cadeira de praia. Ele é bem peludinho e encara a câmera com seus olhos pretos, fazendo uma cara bem fofa de pidão. A cadeira possui um arco-íris. O fundo é um gramado sintético.",
+    "english": "Photo of a raccoon lying on a beach chair. He is very furry and faces the camera with his black eyes, making a very cute pity face. The chair has a rainbow. The background is a synthetic lawn.",
+    "spanish": "Foto de un mapache acostado en una silla de playa. Es muy peludo y mira a la cámara con sus ojos negros, haciendo una cara de lástima muy linda. La silla tiene un arcoíris. El fondo es un césped sintético.",
+    "german": "Foto eines Waschbären, der auf einem Strandkorb liegt. Er ist sehr pelzig und blickt mit seinen schwarzen Augen in die Kamera, was ein sehr süßes, mitleidiges Gesicht macht. Der Stuhl hat einen Regenbogen. Der Hintergrund ist ein Kunstrasen."
+  },
+  {
+    "id": "0273",
+    "file": "https://i.imgur.com/GTgKw5p.png",
+    "portuguese": "Foto tirada do alto mostrando um gatinho laranja. Ele está sentado, encarando a câmera com seus olhos verdes levemente vesgos. Seu pelo é rente ao corpo e usa uma coleira azul. O fundo mostra um chão de madeira desfocado.",
+    "english": "Photo taken from above showing an orange kitten. He's sitting up, facing the camera with his green eyes slightly crossed. His fur is close to the body and he wears a blue collar. The background shows a blurred wooden floor.",
+    "spanish": "Foto tomada desde arriba que muestra un gatito naranja. Está sentado, frente a la cámara con sus ojos verdes ligeramente cruzados. Su pelaje está pegado al cuerpo y lleva un collar azul. El fondo muestra un piso de madera borroso.",
+    "german": "Von oben aufgenommenes Foto mit einem orangefarbenen Kätzchen. Er sitzt aufrecht und blickt mit leicht gekreuzten grünen Augen in die Kamera. Sein Fell liegt eng am Körper an und er trägt einen blauen Kragen. Der Hintergrund zeigt einen verschwommenen Holzboden."
+  },
+  {
+    "id": "0274",
+    "file": "https://i.imgur.com/gezBTVY.png",
+    "portuguese": "Foto de um labrador dormindo em um acampamento. Ele está em cima de um pano cinza, na direita inferior da imagem, e aparece apenas do \"busto\" para cima. É gordo e possui várias dobras, especialmente em seu rosto que está encolhido em direção ao corpo.",
+    "english": "Photo of a labrador sleeping in a camp. It is on top of a gray cloth, in the lower right of the image, and appears only from the \"bust\" up. He is plump and has several folds, especially on his face which is shrunk towards his body.",
+    "spanish": "Foto de un labrador durmiendo en un campamento. Está encima de una tela gris, en la parte inferior derecha de la imagen, y aparece solo del \"busto\" hacia arriba. Es regordete y tiene varios pliegues, especialmente en la cara que está encogida hacia su cuerpo.",
+    "german": "Foto eines Labradors, der in einem Lager schläft. Es befindet sich oben rechts im Bild auf einem grauen Tuch und erscheint nur von der \"Büste\" nach oben. Er ist rundlich und hat mehrere Falten, besonders im Gesicht, das zum Körper hin geschrumpft ist."
+  },
+  {
+    "id": "0275",
+    "file": "https://i.imgur.com/FkV1CPC.png",
+    "portuguese": "Foto de três bodes de pé em cima de uma espécie de gangorra de madeira. Duas delas são grandes, uma na esquerda e uma na direita, e a terceira é filhotes, sem chifres, se escondendo debaixo da mão. Todas são marrons com as patas e focinhos pretos. O fundo mostra um gramado e uma cerca.",
+    "english": "Photo of three goats standing on top of a kind of wooden seesaw. Two of them are large, one on the left and one on the right, and the third is puppies, without horns, hiding under the hand. All are brown with black paws and muzzles. The background shows a lawn and a fence.",
+    "spanish": "Foto de tres cabras paradas encima de una especie de balancín de madera. Dos de ellos son grandes, uno a la izquierda y otro a la derecha, y el tercero son cachorros, sin cuernos, escondidos debajo de la mano. Todos son marrones con patas y hocicos negros. El fondo muestra un césped y una valla.",
+    "german": "Foto von drei Ziegen, die auf einer Art Holzwippe stehen. Zwei von ihnen sind groß, einer links und einer rechts, und der dritte sind Welpen ohne Hörner, die sich unter der Hand verstecken. Alle sind braun mit schwarzen Pfoten und Schnauzen. Der Hintergrund zeigt einen Rasen und einen Zaun."
+  },
+  {
+    "id": "0276",
+    "file": "https://i.imgur.com/sWYBgSQ.png",
+    "portuguese": "Foto de um ratinho de pé atrás de um pequeno cavalete com uma mini-pintura abstrata nas cores preto, roxo, azul e rosa. O ratinho segura o cavalete, orgulhoso, encarando a câmera com a boquinha aberta. O fundo é branco.",
+    "english": "Photo of a mouse standing behind a small easel with a mini abstract painting in black, purple, blue and pink. The mouse proudly holds the easel, staring at the camera with its mouth open. The background is white.",
+    "spanish": "Foto de un ratón parado detrás de un pequeño caballete con una mini pintura abstracta en negro, violeta, azul y rosa. El ratón sostiene con orgullo el caballete, mirando a la cámara con la boca abierta. El fondo es blanco.",
+    "german": "Foto einer Maus, die hinter einer kleinen Staffelei mit einem abstrakten Mini-Gemälde in Schwarz, Lila, Blau und Pink steht. Die Maus hält stolz die Staffelei und starrt mit offenem Mund in die Kamera. Der Hintergrund ist weiß."
+  },
+  {
+    "id": "0277",
+    "file": "https://i.imgur.com/slsKhCZ.png",
+    "portuguese": "Foto de um gato com a cara na câmera. Ele é bege e branco com algumas listras pretas. Seus olhos esverdeados encaram a câmera e ele faz uma cara de poucos amigos, como se estivesse ameaçando quem o encara. O fundo é o céu azul.",
+    "english": "Photo of a cat with its face in the camera. It is beige and white with some black stripes. His green eyes stare at the camera and he makes a face of few friends, as if he's threatening whoever looks at him. The background is the blue sky.",
+    "spanish": "Foto de un gato con la cara en la cámara. Es de color beige y blanco con algunas rayas negras. Sus ojos verdes miran fijamente a la cámara y pone cara de pocos amigos, como si estuviera amenazando a quien lo mira. El fondo es el cielo azul.",
+    "german": "Foto einer Katze mit ihrem Gesicht in der Kamera. Es ist beige und weiß mit einigen schwarzen Streifen. Seine grünen Augen starren in die Kamera und er macht ein paar Freundesgesichter, als bedrohe er jeden, der ihn ansieht. Der Hintergrund ist der blaue Himmel."
+  },
+  {
+    "id": "0278",
+    "file": "https://i.imgur.com/UYfiykN.png",
+    "portuguese": "Foto de um gato muito perto da câmera. Ele é marrom/bege com listras pretas. Seus olhos caramelos olham para algo além da câmera e sua cara é fechada, mas ele é bem bochechudo e não parece uma ameaça. O fundo é o céu azul.",
+    "english": "Photo of a cat very close to the camera. It is brown/beige with black stripes. His caramel eyes look beyond the camera and his face is frowning, but he's quite chubby and doesn't look like a threat. The background is the blue sky.",
+    "spanish": "Foto de un gato muy cerca de la cámara. Es de color marrón/beige con rayas negras. Sus ojos color caramelo miran más allá de la cámara y su rostro frunce el ceño, pero es bastante gordito y no parece una amenaza. El fondo es el cielo azul.",
+    "german": "Foto einer Katze ganz nah an der Kamera. Es ist braun/beige mit schwarzen Streifen. Seine karamellfarbenen Augen blicken über die Kamera hinaus und sein Gesicht runzelt die Stirn, aber er ist ziemlich pummelig und sieht nicht wie eine Bedrohung aus. Der Hintergrund ist der blaue Himmel."
+  },
+  {
+    "id": "0279",
+    "file": "https://i.imgur.com/ztHzOT4.png",
+    "portuguese": "Foto de um gato muito perto da câmera. Ele é branco com o topo da cabeça laranja. Seus olhos são azuis e seu nariz, pela proximidade, está imenso. Está sentado e faz cara de curioso.",
+    "english": "Photo of a cat very close to the camera. He is white with an orange top of his head. His eyes are blue and his nose, due to the proximity, is huge. He's sitting up and looks curious.",
+    "spanish": "Foto de un gato muy cerca de la cámara. Es blanco con una parte superior naranja en la cabeza. Sus ojos son azules y su nariz, debido a la proximidad, es inmensa. Está sentado y parece curioso.",
+    "german": "Foto einer Katze ganz nah an der Kamera. Er ist weiß mit einem orangefarbenen Scheitel. Seine Augen sind blau und seine Nase aufgrund der Nähe riesig. Er sitzt und sieht neugierig aus."
+  },
+  {
+    "id": "0280",
+    "file": "https://i.imgur.com/q1LGYgf.png",
+    "portuguese": "Foto de um cachorrinho lulu da pomerânia sentado em um sofá. Ele é bem pequeno, marrom acinzentado, possui os olhos pretos e está com a boca aberta numa mistura de bocejo e felicidade. Usa uma coleira azul. O fundo mostra o sofá, coberto por alguns panos.",
+    "english": "Photo of a Pomeranian puppy sitting on a sofa. He is very small, greyish brown, has black eyes and has his mouth open in a mixture of yawn and happiness. He wears a blue collar. The background shows the sofa, covered by some cloths.",
+    "spanish": "Foto de un cachorro de Pomerania sentado en un sofá. Es muy pequeño, de color marrón grisáceo, tiene ojos negros y tiene la boca abierta en una mezcla de bostezo y felicidad. Usa un collar azul. El fondo muestra el sofá, cubierto por unos paños.",
+    "german": "Foto eines pommerschen Welpen, der auf einem Sofa sitzt. Er ist sehr klein, graubraun, hat schwarze Augen und den Mund in einer Mischung aus Gähnen und Freude offen. Tragen Sie einen blauen Kragen. Der Hintergrund zeigt das Sofa, bedeckt von einigen Tüchern."
+  },
+  {
+    "id": "0281",
+    "file": "https://i.imgur.com/YXlLAFQ.png",
+    "portuguese": "Foto de uma onça pintada lambendo seu filhote. O filhote está sentado no centro da imagem, com a carinha achatada pela língua da mãe, que só mostra o focinho e uma das patas dianteiras. O fundo está desfocado.",
+    "english": "Photo of a jaguar licking its cub. The puppy is sitting in the center of the image, with the face flattened by the mother's tongue, which only shows the snout and one of the front paws. The background is blurred.",
+    "spanish": "Foto de un jaguar lamiendo a su cachorro. El cachorro está sentado en el centro de la imagen, con la cara aplastada por la lengua de la madre, que solo deja ver el hocico y una de las patas delanteras. El fondo está borroso.",
+    "german": "Foto eines Jaguars, der sein Junges leckt. Der Welpe sitzt in der Mitte des Bildes, das Gesicht von der Zunge der Mutter plattgedrückt, die nur die Schnauze und eine der Vorderpfoten zeigt. Der Hintergrund ist verschwommen."
+  },
+  {
+    "id": "0282",
+    "file": "https://i.imgur.com/ygYLScO.png",
+    "portuguese": "Foto de um corgi sentado em um sofá olhando para a câmera. Ele é branco com o topo da cabeça bege e mostra a língua em uma espécie de sorrido. O fundo é uma sala.",
+    "english": "Photo of a corgi sitting on a couch looking at the camera. He is white with a beige top of his head and shows his tongue in a sort of grin. The background is a room.",
+    "spanish": "Foto de un corgi sentado en un sofá mirando a la cámara. Es blanco con la parte superior de la cabeza beige y muestra la lengua en una especie de sonrisa. El fondo es una habitación.",
+    "german": "Foto eines Corgis, der auf einer Couch sitzt und in die Kamera schaut. Er ist weiß mit einem beigen Scheitel und zeigt seine Zunge in einer Art Grinsen. Der Hintergrund ist ein Raum."
+  },
+  {
+    "id": "0283",
+    "file": "https://i.imgur.com/7vNWoVe.png",
+    "portuguese": "Foto de um gatinho gordo sentado em uma escrivaninha. Ele é bege meio acinzentado e olha para a direita. Usa um lencinho vermelho e branco no pescoço. Apesar de gordo, é relativamente pequeno. O fundo mostra um computador e um enfeite de girafa.",
+    "english": "Photo of a fat kitten sitting at a desk. He is grayish beige and looks to the right. He wears a red and white scarf around his neck. Despite being fat, he is relatively small. The background shows a computer and a giraffe ornament.",
+    "spanish": "Foto de un gatito gordo sentado en un escritorio. Es de color beige grisáceo y mira a la derecha. Lleva un pañuelo rojo y blanco alrededor del cuello. A pesar de ser gordo, es relativamente pequeño. El fondo muestra una computadora y un adorno de jirafa.",
+    "german": "Foto eines fetten Kätzchens, das an einem Schreibtisch sitzt. Er ist graubeige und schaut nach rechts. Um den Hals trägt sie ein rot-weißes Taschentuch. Obwohl es dick ist, ist es relativ klein. Der Hintergrund zeigt einen Computer und eine Giraffenverzierung."
+  },
+  {
+    "id": "0284",
+    "file": "https://i.imgur.com/VuQoYqV.png",
+    "portuguese": "Foto de um ratinho cheirando a câmera apoiado em um pedaço de milho. É possível ver apenas sua cabeça. Ele é branco e está com a boca entreaberta mostrando dois de seus dentinhos. Há outras comidas pelo local.",
+    "english": "Photo of a mouse sniffing the camera leaning on a piece of corn. You can only see his head. He is white and has his mouth slightly open, showing two of his little teeth. There are other foods around the place.",
+    "spanish": "Foto de un ratón olfateando la cámara apoyado en un trozo de maíz. Solo puedes ver tu cabeza. Es blanco y tiene la boca entreabierta, mostrando dos de sus pequeños dientes. Hay otros alimentos alrededor del lugar.",
+    "german": "Foto einer Maus, die die Kamera schnüffelt und sich auf ein Stück Mais stützt. Du kannst nur deinen Kopf sehen. Er ist weiß und hat seinen Mund leicht geöffnet, sodass zwei seiner kleinen Zähne zu sehen sind. Es gibt andere Lebensmittel rund um den Ort."
+  },
+  {
+    "id": "0285",
+    "file": "https://i.imgur.com/tJ3zGCm.jpg",
+    "portuguese": "Foto de dois bezerros brancos deitados juntos numa cama de feno.",
+    "english": "Photo of two white calves lying together on a bed of hay.",
+    "spanish": "Foto de dos terneros blancos acostados juntos en un lecho de heno.",
+    "german": "Foto von zwei weißen Kälbern, die zusammen auf einem Heubett liegen."
+  },
+  {
+    "id": "0286",
+    "file": "https://i.imgur.com/ZCeMcbB.jpg",
+    "portuguese": "Foto de um passarinho pequeno num galho. Ele é branco com a barriga laranja e as costas cinza.",
+    "english": "Photo of a small bird on a branch. He is white with an orange belly and a gray back.",
+    "spanish": "Foto de un pequeño pájaro en una rama. Es blanco con el vientre anaranjado y la espalda gris.",
+    "german": "Foto eines kleinen Vogels auf einer Niederlassung. Er ist weiß mit einem orangefarbenen Bauch und einem grauen Rücken."
+  },
+  {
+    "id": "0287",
+    "file": "https://i.imgur.com/lTfGvRL.png",
+    "portuguese": "Dois gatos na escada de uma casa. O primeiro gato é branco e está de pé na parte mais alta. Ele olha para a câmera com um olhar confuso. O segundo gato está deitado um degrau abaixo. Ele é branco com manchas laranjas. Nos cantos da escada há vasos de plantas com flores laranjas e rosas.",
+    "english": "Two cats on the stairs of a house. The first cat is white and is standing on the highest part. He looks at the camera with a confused look. The second cat is lying one step down. He is white with orange spots. In the corners of the stairs are potted plants with orange and pink flowers.",
+    "spanish": "Dos gatos en las escaleras de una casa. El primer gato es blanco y está parado en la parte más alta. Mira a la cámara con una mirada confundida. El segundo gato está acostado un escalón más abajo. Es blanco con manchas anaranjadas. En las esquinas de las escaleras hay macetas con flores naranjas y rosas.",
+    "german": "Zwei Katzen auf der Treppe eines Hauses. Die erste Katze ist weiß und steht auf dem höchsten Teil. Verwirrt blickt er in die Kamera. Die zweite Katze liegt eine Stufe tiefer. Er ist weiß mit orangen Flecken. In den Ecken der Treppe stehen Topfpflanzen mit orangen und rosa Blüten."
+  },
+  {
+    "id": "0288",
+    "file": "https://i.imgur.com/oRnNacn.jpg",
+    "portuguese": "Foto tirada dentro de um ônibus. Mostra um cão no banco à frente olhando para a câmera. Ele tem uma expressão curiosa, mas feliz.",
+    "english": "Photo taken inside a bus. It shows a dog in the front seat looking at the camera. He has a curious but happy expression.",
+    "spanish": "Foto tomada en el interior de un autobús. Muestra a un perro en el asiento delantero mirando a la cámara. Tiene una expresión curiosa pero feliz.",
+    "german": "Das Foto wurde in einem Bus aufgenommen. Es zeigt einen Hund auf dem Vordersitz, der in die Kamera schaut. Er hat einen neugierigen, aber glücklichen Ausdruck."
+  },
+  {
+    "id": "0289",
+    "file": "https://i.imgur.com/pvIBZRa.jpg",
+    "portuguese": "Foto de uma vaca deitada na grama. A foto foi tirada de perto e mostra o focinho rosa e a face de pelo branco da vaca.",
+    "english": "Photo of a cow lying on the grass. The photo was taken up close and shows the cow's pink snout and white fur face.",
+    "spanish": "Foto de una vaca tirada en el pasto. La foto fue tomada de cerca y muestra el hocico rosado de la vaca y la cara de pelaje blanco.",
+    "german": "Foto einer Kuh, die auf dem Gras liegt. Das Foto wurde aus der Nähe aufgenommen und zeigt die rosa Schnauze und das weiße Fellgesicht der Kuh."
+  },
+  {
+    "id": "0290",
+    "file": "https://i.imgur.com/sBTJfId.jpg",
+    "portuguese": "Foto de um pato branco se sacudindo em cima de uma pedra. Ele parece ter acabado de sair do lago ao fundo.",
+    "english": "Photo of a white duck bobbing on top of a rock. He looks like he's just come out of the lake in the background.",
+    "spanish": "Foto de un pato blanco flotando sobre una roca. Parece que acaba de salir del lago en el fondo.",
+    "german": "Foto einer weißen Ente, die auf einem Felsen auf und ab hüpft. Er sieht aus, als wäre er gerade aus dem See im Hintergrund gekommen."
+  },
+  {
+    "id": "0291",
+    "file": "https://i.imgur.com/4EWy4O7.jpg",
+    "portuguese": "Foto de um bebê rinoceronte brincando na lama. Ele está emlameado da barriga pra baixo e também no focinho.",
+    "english": "Photo of a baby rhino playing in the mud. He is muddy from the belly down and also on the snout.",
+    "spanish": "Foto de un rinoceronte bebé jugando en el barro. Está embarrado de vientre para abajo y también en el hocico.",
+    "german": "Foto eines Nashornbabys, das im Schlamm spielt. Er ist vom Bauch abwärts und auch an der Schnauze matschig."
+  },
+  {
+    "id": "0292",
+    "file": "https://i.imgur.com/iI2Z20E.jpg",
+    "portuguese": "Foto de uma mão apertando carinhosamente a bochecha de um gatinho laranja. Ele é filhote e parece estar dormindo.",
+    "english": "Photo of a hand affectionately squeezing the cheek of an orange kitten. He is a puppy and appears to be sleeping.",
+    "spanish": "Foto de una mano apretando cariñosamente la mejilla de un gatito naranja. Es un cachorro y parece estar durmiendo.",
+    "german": "Foto einer Hand, die liebevoll die Wange eines orangefarbenen Kätzchens drückt. Er ist ein Welpe und scheint zu schlafen."
+  },
+  {
+    "id": "0293",
+    "file": "https://i.imgur.com/Ijf1g3y.jpg",
+    "portuguese": "Imagem de uma lontra dormindo na perna de uma pessoa. Ela está com os olhinhos fechados e apoia a cabeça e uma das patinhas na perna da pessoa. O fundo é uma cama.",
+    "english": "Image of an otter sleeping on a person's leg. She has her eyes closed and supports her head and one of her paws on the person's leg. The bottom is a bed.",
+    "spanish": "Imagen de una nutria durmiendo en la pierna de una persona. Tiene los ojos cerrados y apoya la cabeza y una de sus patas en la pierna de la persona. El fondo es una cama.",
+    "german": "Bild eines Otters, der auf dem Bein einer Person schläft. Sie hat ihre Augen geschlossen und stützt ihren Kopf und eine ihrer Pfoten auf dem Bein der Person. Unten ist ein Bett."
+  },
+  {
+    "id": "0294",
+    "file": "https://i.imgur.com/1Bl7ucn.jpg",
+    "portuguese": "Foto de coelhos brancos da neve. Quatro estão deitados e um está de pé. O coelho da neve tem pernas longas, diferente dos coelhos comuns.",
+    "english": "Photo of white snow bunnies. Four are lying down and one is standing. The snow rabbit has long legs, unlike common rabbits.",
+    "spanish": "Foto de conejitos de nieve blanca. Cuatro están acostados y uno está de pie. El conejo de las nieves tiene patas largas, a diferencia de los conejos comunes.",
+    "german": "Foto von weißen Schneehäschen. Vier liegen und einer steht. Der Schneehase hat im Gegensatz zu gewöhnlichen Kaninchen lange Beine."
+  },
+  {
+    "id": "0295",
+    "file": "https://i.imgur.com/cVvICDW.jpg",
+    "portuguese": "Foto de uma foca com o rosto enfiado nas barras de uma grade. Ela tem o pelo cinza e olhos pretos. Ela olha para a câmera com uma expressão feliz.",
+    "english": "Photo of a seal with its face buried in the bars of a crate. She has gray fur and black eyes. She looks at the camera with a happy expression.",
+    "spanish": "Foto de una foca con la cara enterrada en los barrotes de una caja. Ella tiene pelaje gris y ojos negros. Ella mira a la cámara con una expresión feliz.",
+    "german": "Foto einer Robbe, deren Gesicht in den Gitterstäben einer Kiste vergraben ist. Sie hat graues Fell und schwarze Augen. Sie schaut mit einem glücklichen Ausdruck in die Kamera."
+  },
+  {
+    "id": "0296",
+    "file": "https://i.imgur.com/kdgrUyQ.jpg",
+    "portuguese": "Foto de perto do rosto de um gato branco. Ele tem olhos pretos e parece curioso com a câmera.",
+    "english": "Close-up photo of a white cat's face. He has black eyes and looks curious with the camera.",
+    "spanish": "Foto de primer plano de la cara de un gato blanco. Tiene los ojos negros y parece curioso con la cámara.",
+    "german": "Nahaufnahmefoto des Gesichts einer weißen Katze. Er hat schwarze Augen und schaut neugierig in die Kamera."
+  },
+  {
+    "id": "0297",
+    "file": "https://i.imgur.com/hwLuO2k.jpg",
+    "portuguese": "Foto de um pequeno sapo verde na mão de um pessoa. O sapo está com as mãos juntas e tem um pequeno chapéu preto em forma de cone.",
+    "english": "Photo of a small green frog in a person's hand. The frog has its hands together and has a small black cone-shaped hat.",
+    "spanish": "Foto de una pequeña rana verde en la mano de una persona. La rana tiene las manos juntas y tiene un pequeño sombrero negro en forma de cono.",
+    "german": "Foto eines kleinen grünen Frosches in der Hand einer Person. Der Frosch hat seine Hände zusammen und hat einen kleinen schwarzen kegelförmigen Hut."
+  },
+  {
+    "id": "0298",
+    "file": "https://i.imgur.com/hSC6x5I.jpg",
+    "portuguese": "Foto de um filhote de anta brincando na lama. O filhote de anta tem o pêlo marrom com listras escuras.",
+    "english": "Photo of a baby tapir playing in the mud. The baby tapir has brown fur with dark stripes.",
+    "spanish": "Foto de un tapir bebé jugando en el barro. El tapir bebé tiene pelaje marrón con rayas oscuras.",
+    "german": "Foto eines Babytapirs, der im Schlamm spielt. Der Babytapir hat braunes Fell mit dunklen Streifen."
+  },
+  {
+    "id": "0299",
+    "file": "https://i.imgur.com/MZMJPxF.jpg",
+    "portuguese": "Foto de um filhote de foca num grande terreno cheio de capim. Ele olha para a câmera com um olhar confuso.",
+    "english": "Photo of a seal pup in a large patch of grass. He looks at the camera with a confused look.",
+    "spanish": "Foto de una cría de foca en un gran trozo de hierba. Mira a la cámara con una mirada confundida.",
+    "german": "Foto eines Robbenjungen in einer großen Grasfläche. Verwirrt blickt er in die Kamera."
+  },
+  {
+    "id": "0300",
+    "file": "https://i.imgur.com/FLaidYg.jpg",
+    "portuguese": "Foto de perto do rosto de um gato malhado. Ele tem o focinho rosa, a bochecha esquerda laranja e a testa preta.",
+    "english": "Close-up photo of a tabby cat's face. He has a pink muzzle, an orange left cheek, and a black forehead.",
+    "spanish": "Foto de primer plano de la cara de un gato atigrado. Tiene un hocico rosado, una mejilla izquierda naranja y una frente negra.",
+    "german": "Nahaufnahme des Gesichts einer getigerten Katze. Er hat eine rosa Schnauze, eine orangefarbene linke Wange und eine schwarze Stirn."
+  },
+  {
+    "id": "0301",
+    "file": "https://i.imgur.com/UpsnEBw.jpg",
+    "portuguese": "Foto de um filhote de passarinho na areia. Ele tem plumas brancas com pintas amarelas e o bico amarelo. Ele corre com as asas abertas.",
+    "english": "Photo of a baby bird in the sand. It has white feathers with yellow spots and a yellow beak. He runs with open wings.",
+    "spanish": "Foto de un pajarito en la arena. Tiene plumas blancas con manchas amarillas y un pico amarillo. Corre con las alas abiertas.",
+    "german": "Foto eines Babyvogels im Sand. Es hat weiße Federn mit gelben Flecken und einen gelben Schnabel. Er läuft mit offenen Flügeln."
+  },
+  {
+    "id": "0302",
+    "file": "https://i.imgur.com/v7sRlFG.jpg",
+    "portuguese": "Foto de um filhote de cão da raça corgi. Ele está numa calçada molhada e veste uma pequena capa de chuva amarela.",
+    "english": "Photo of a corgi puppy. He is on a wet sidewalk and is wearing a small yellow raincoat.",
+    "spanish": "Foto de un cachorro corgi. Está en una acera mojada y lleva puesto un pequeño impermeable amarillo.",
+    "german": "Foto eines Corgiwelpen. Er ist auf einem nassen Bürgersteig und trägt einen kleinen gelben Regenmantel."
+  },
+  {
+    "id": "0303",
+    "file": "https://i.imgur.com/lyJI84t.jpg",
+    "portuguese": "Foto de um casal de pássaros amarelos num galho. O da esquerda faz carinho no outro com o bico.",
+    "english": "Photo of a couple of yellow parrots on a branch. The parrot on the left is petting the other with its beak.",
+    "spanish": "Foto de un par de loros amarillos en una rama. El loro de la izquierda acaricia al otro con su pico.",
+    "german": "Foto von ein paar gelben Papageien auf einer Niederlassung. Der linke Papagei streichelt den anderen mit seinem Schnabel."
+  },
+  {
+    "id": "0304",
+    "file": "https://i.imgur.com/nEuXAAd.jpg",
+    "portuguese": "Foto de um gato marrom listrado de pé nas patas traseiras. Ele está com os braços estendidos e a boca aberta como se fizesse uma reclamação explosiva. Ao fundo, um gramado e casas.",
+    "english": "Photo of a brown striped cat standing on its hind legs. He has his arms outstretched and his mouth is open as if making an explosive claim. In the background, a lawn and houses.",
+    "spanish": "Foto de un gato con rayas marrones parado sobre sus patas traseras. Tiene los brazos extendidos y la boca abierta como si hiciera una afirmación explosiva. Al fondo, césped y casas.",
+    "german": "Foto einer braun gestreiften Katze, die auf ihren Hinterbeinen steht. Er hat seine Arme ausgestreckt und sein Mund ist offen, als würde er eine explosive Behauptung aufstellen. Im Hintergrund ein Rasen und Häuser."
+  },
+  {
+    "id": "0305",
+    "file": "https://i.imgur.com/9eShOV3.jpg",
+    "portuguese": "Foto de um gato branco com manchas marrons num sofá cinza. Ele está apoiado na pata direita e está com a esquerda dobrada na barriga. Como uma mãe observando seus filhos aprontar.",
+    "english": "Photo of a white cat with brown spots on a gray sofa. He is leaning on his right paw and his left leg is tucked into his belly. Like a mother watching her children play.",
+    "spanish": "Foto de un gato blanco con manchas marrones en un sofá gris. Está apoyado en su pata derecha y su pierna izquierda está metida en su vientre. Como una madre viendo jugar a sus hijos.",
+    "german": "Foto einer weißen Katze mit braunen Flecken auf einem grauen Sofa. Er stützt sich auf seine rechte Pfote und sein linkes Bein ist in seinen Bauch gesteckt. Wie eine Mutter, die ihren Kindern beim Spielen zuschaut."
+  },
+  {
+    "id": "0306",
+    "file": "https://i.imgur.com/Jcyq4AT.jpg",
+    "portuguese": "Foto tirada do alto em que um cachorro aparece dentro de um rio. Ele é marrom com o peito e focinho branco. Está todo molhado e com algumas plantas grudadas em seu peito. Sua boca está aberta em uma expressão alegre.",
+    "english": "Photo taken from above where a dog appears in a river. He is brown with a white chest and muzzle. He's all wet and with some plants stuck to his chest. His mouth is open in a joyful expression.",
+    "spanish": "Foto tomada desde arriba donde aparece un perro en un río. Es marrón con el pecho y el hocico blancos. Está todo mojado y con unas plantas pegadas al pecho. Su boca está abierta en una expresión alegre.",
+    "german": "Foto von oben, wo ein Hund in einem Fluss auftaucht. Er ist braun mit weißer Brust und Schnauze. Er ist ganz nass und einige Pflanzen kleben an seiner Brust. Sein Mund ist in einem fröhlichen Ausdruck geöffnet."
+  },
+  {
+    "id": "0307",
+    "file": "https://i.imgur.com/LugL1vo.jpg",
+    "portuguese": "Cachorrinho filhote deitado. Ele é bege e possui os pelos bem ralos, parece um labrador. Está dormindo com o rosto virado para a direita. Há um reflexo de arco-íris na sua cara. À sua esquerda, uma pelúcia de girafa. O fundo é uma cama.",
+    "english": "Puppy puppy lying down. He is beige and has very thin fur, he looks like a Labrador. He is sleeping with his face turned to the right. There's a rainbow reflection on his face. To his left, a plush giraffe. The bottom is a bed.",
+    "spanish": "Cachorro cachorro acostado. Es beige y tiene un pelaje muy fino, parece un labrador. Está durmiendo con la cara vuelta hacia la derecha. Hay un reflejo del arcoíris en tu cara. A su izquierda, una jirafa de peluche. El fondo es una cama.",
+    "german": "Welpe Welpe, der sich hinlegt. Er ist beige und hat sehr dünnes Fell, er sieht aus wie ein Labrador. Er schläft mit nach rechts gedrehtem Gesicht. Es gibt eine Regenbogenreflexion auf deinem Gesicht. Zu Ihrer Linken eine Plüschgiraffe. Unten ist ein Bett."
+  },
+  {
+    "id": "0308",
+    "file": "https://i.imgur.com/StSFoYM.jpg",
+    "portuguese": "Uma mão segurando um furão usando roupa de bruxa. Ele possui um colarinho roxo e preto e um chapéu roxo pontudo. Encara a câmera com uma expressão séria. O fundo é uma porta.",
+    "english": "A hand holding a ferret wearing a witch outfit. He has a purple and black collar and a pointed purple hat. He faces the camera with a serious expression. The bottom is a door.",
+    "spanish": "Una mano sosteniendo un hurón vestido con un traje de bruja. Tiene un collar morado y negro y un sombrero morado puntiagudo. Se enfrenta a la cámara con una expresión seria. El fondo es una puerta.",
+    "german": "Eine Hand, die ein Frettchen hält, das ein Hexenoutfit trägt. Er hat einen lila-schwarzen Kragen und einen spitzen lila Hut. Er blickt mit ernster Miene in die Kamera. Unten ist eine Tür."
+  },
+  {
+    "id": "0309",
+    "file": "https://i.imgur.com/Mgo1jMJ.jpg",
+    "portuguese": "Foto tirada do alto em que um cachorro aparece sentado no meio de uma sala de estar, coberto por um lençol branco mal cortado que deixa apenas seus olhos, focinho e patas dianteiras à mostra.",
+    "english": "Photo taken from above in which a dog appears sitting in the middle of a living room, covered by a poorly cut white sheet that leaves only its eyes, snout and front paws exposed.",
+    "spanish": "Foto tomada desde arriba en la que aparece un perro sentado en medio de una sala de estar, cubierto por una sábana blanca mal cortada que deja al descubierto sólo los ojos, el hocico y las patas delanteras.",
+    "german": "Von oben aufgenommenes Foto, auf dem ein Hund mitten in einem Wohnzimmer zu sitzen scheint, bedeckt von einem schlecht geschnittenen weißen Laken, das nur seine Augen, seine Schnauze und seine Vorderpfoten freilässt."
+  },
+  {
+    "id": "0310",
+    "file": "https://i.imgur.com/EBGVc0r.jpg",
+    "portuguese": "Foto de dois cachorros sentados no quintal. Ambos estão cobertos por lençóis brancos. O da esquerda é alto e branco, mostrando apenas os olhos e focinho, e sua boca aberta se assemelha a um sorriso. O da esquerda é mais baixinho, e além dos olhos e do focinho também é possível ver um tufo de cabelo (pelo) preso ao alto de sua cabeça. O fundo mostra uma cerca de madeira.",
+    "english": "Photo of two dogs sitting in the backyard. Both are covered in white sheets. The one on the left is tall and white, showing only its eyes and snout, and its open mouth resembles a smile. The one on the left is shorter, and in addition to the eyes and muzzle, it is also possible to see a tuft of hair (fur) attached to the top of its head. The background shows a wooden fence.",
+    "spanish": "Foto de dos perros sentados en el patio trasero. Ambos están cubiertos con sábanas blancas. El de la izquierda es alto y blanco, mostrando solo los ojos y el hocico, y su boca abierta parece una sonrisa. El de la izquierda es más corto, y además de los ojos y el hocico, también es posible ver un mechón de pelo (pelo) adherido a la parte superior de la cabeza. El fondo muestra una valla de madera.",
+    "german": "Foto von zwei Hunden, die im Hinterhof sitzen. Beide sind mit weißen Laken bedeckt. Der linke ist groß und weiß und zeigt nur seine Augen und seine Schnauze, und sein offener Mund ähnelt einem Lächeln. Der linke ist kürzer und zusätzlich zu den Augen und der Schnauze kann man auch ein Haarbüschel (Fell) sehen, das an der Oberseite seines Kopfes befestigt ist. Der Hintergrund zeigt einen Holzzaun."
+  },
+  {
+    "id": "0311",
+    "file": "https://i.imgur.com/f9OuUK0.jpg",
+    "portuguese": "Foto de um cachorro vestido de fantasma. Ele usa um lençol branco que arrasta no chão e mostra apenas seus olhos e focinho. Com a boca, segura um balde laranja com o desenho de uma abóbora. O fundo é um gramado com folhas no chão",
+    "english": "Photo of a dog dressed as a ghost. He wears a white sheet that drags on the floor and shows only his eyes and snout. With his mouth, he holds an orange bucket with a pumpkin design. The background is a lawn with leaves on the ground",
+    "spanish": "Foto de un perro disfrazado de fantasma. Lleva una sábana blanca que arrastra por el suelo y deja ver sólo los ojos y el hocico. En su boca, sostiene un balde naranja con un diseño de calabaza. El fondo es un césped con hojas en el suelo.",
+    "german": "Foto eines Hundes, der als Geist verkleidet ist. Er trägt ein weißes Laken, das über den Boden schleift und nur seine Augen und seine Schnauze zeigt. In ihrem Mund hält sie einen orangefarbenen Eimer mit Kürbisdesign. Der Hintergrund ist ein Rasen mit Blättern auf dem Boden"
+  },
+  {
+    "id": "0312",
+    "file": "https://i.imgur.com/RIDSDHA.jpg",
+    "portuguese": "Há um gato preto sentado com cara de bravo. Ele usa um chapéu roxo pontudo com flores brancas que deixa suas orelhas à mostra através de dois buraquinhos. É bem magro e seu pelo é ralo. O fundo é um tapete.",
+    "english": "There is a black cat sitting there with an angry face. He wears a pointy purple hat with white flowers that exposes his ears through two small holes. It is very thin and its fur is thin. The background is a rug.",
+    "spanish": "Hay un gato negro sentado allí con cara de enfado. Lleva un sombrero puntiagudo de color púrpura con flores blancas que expone sus orejas a través de dos pequeños agujeros. Es muy delgado y su pelaje es fino. El fondo es una alfombra.",
+    "german": "Dort sitzt eine schwarze Katze mit einem wütenden Gesicht. Er trägt einen spitzen lila Hut mit weißen Blumen, der seine Ohren durch zwei kleine Löcher freilegt. Es ist sehr dünn und sein Fell ist dünn. Der Hintergrund ist ein Teppich."
+  },
+  {
+    "id": "0313",
+    "file": "https://i.imgur.com/5LyZJQ1.jpg",
+    "portuguese": "Há um gato preto sentado com cara de bravo. Ele usa um chapéu roxo pontudo com flores brancas que deixa suas orelhas à mostra através de dois buraquinhos. Ele olha para a direita com ar de metido ou bravo, numa expressão similar a \"não quero falar com você\".",
+    "english": "There is a black cat sitting there with an angry face. He wears a pointy purple hat with white flowers that exposes his ears through two small holes. He looks to the right with an air of self-importance or annoyance, in an expression similar to \"I don't want to talk to you.",
+    "spanish": "Hay un gato negro sentado allí con cara de enfado. Lleva un sombrero puntiagudo de color púrpura con flores blancas que expone sus orejas a través de dos pequeños agujeros. Mira a la derecha con aire de engreimiento o fastidio, en una expresión similar a \"no quiero hablar contigo\".",
+    "german": "Dort sitzt eine schwarze Katze mit einem wütenden Gesicht. Er trägt einen spitzen lila Hut mit weißen Blumen, der seine Ohren durch zwei kleine Löcher freilegt. Er schaut nach rechts mit einem Hauch von Selbstgefälligkeit oder Verärgerung, in einem Ausdruck ähnlich wie „Ich möchte nicht mit dir reden“."
+  },
+  {
+    "id": "0314",
+    "file": "https://i.imgur.com/ndO9DKV.jpg",
+    "portuguese": "Foto de um ouriço vestido de vampiro. Ele usa uma blusinha branca e uma capa preta do lado de fora e vermelha do lado de dentro, com uma gola dobrada maior do que sua cabeça. Sua expressão é neutra.",
+    "english": "Photo of a hedgehog dressed as a vampire. He wears a white tank top and a black cape on the outside and a red cape on the inside, with a collar folded over his head. His expression is neutral.",
+    "spanish": "Foto de un erizo disfrazado de vampiro. Viste una camiseta sin mangas blanca y una capa negra por fuera y una capa roja por dentro, con un cuello doblado sobre su cabeza. Su expresión es neutra.",
+    "german": "Foto eines als Vampir verkleideten Igels. Er trägt ein weißes Tanktop und einen schwarzen Umhang außen und einen roten Umhang innen, mit einem über den Kopf gefalteten Kragen. Sein Gesichtsausdruck ist neutral."
+  },
+  {
+    "id": "0315",
+    "file": "https://i.imgur.com/DCKbYtM.png",
+    "portuguese": "Foto tirada de baixo de um gatinho super perto da câmera, mostrando apenas da boca para cima. Seus olhos arregalados olham para cima. Por estar muito perto da câmera, a imagem está desfocada.",
+    "english": "Photo taken from below of a kitten super close to the camera, showing only from the mouth up. Her wide eyes look up. Being too close to the camera, the image is blurred.",
+    "spanish": "Foto tomada desde abajo de un gatito muy cerca de la cámara, mostrando solo de la boca hacia arriba. Sus grandes ojos miran hacia arriba. Al estar demasiado cerca de la cámara, la imagen se ve borrosa.",
+    "german": "Von unten aufgenommenes Foto eines Kätzchens ganz nah an der Kamera, das nur vom Maul nach oben zu sehen ist. Ihre großen Augen blicken nach oben. Zu nah an der Kamera ist das Bild verschwommen."
+  },
+  {
+    "id": "0316",
+    "file": "https://i.imgur.com/TJTsjh7.png",
+    "portuguese": "Foto da cara de um gatinho. Ele encara a câmera com os olhos dilatados e arregalados e está tremido.",
+    "english": "Photo of a kitten's face. He's staring at the camera with his eyes dilated and wide and he's shaking.",
+    "spanish": "Foto de la cara de un gatito. Está mirando a la cámara con los ojos dilatados y muy abiertos y está temblando.",
+    "german": "Foto vom Gesicht eines Kätzchens. Er starrt mit geweiteten und weit aufgerissenen Augen in die Kamera und zittert."
+  },
+  {
+    "id": "0317",
+    "file": "https://i.imgur.com/9aUCqnC.png",
+    "portuguese": "Foto tirada de baixo do rosto de um gatinho todo branco. Ele olha para a frente com seus olhos verdes e sua boca está levemente entreaberta.",
+    "english": "Photo taken from under the face of an all-white kitten. He looks straight ahead with his green eyes and his mouth is slightly parted.",
+    "spanish": "Foto tomada debajo de la cara de un gatito completamente blanco. Mira al frente con sus ojos verdes y su boca está ligeramente entreabierta.",
+    "german": "Foto unter dem Gesicht eines ganz weißen Kätzchens. Er blickt mit seinen grünen Augen geradeaus und sein Mund ist leicht geöffnet."
+  },
+  {
+    "id": "0318",
+    "file": "https://i.imgur.com/OHcBelA.png",
+    "portuguese": "Foto do rosto de um gatinho tirada muito de perto da câmera. Está tremida. Seus olhos estão arregalados e sua boca entreaberta trás a sensação de surpresa ou curiosidade.",
+    "english": "Photo of a kitten's face taken very close to the camera. It's shaky. His eyes are wide and his mouth is slightly open with a feeling of surprise or curiosity.",
+    "spanish": "Foto de la cara de un gatito tomada muy cerca de la cámara. es inestable Sus ojos están muy abiertos y su boca está ligeramente abierta, trayendo una sensación de sorpresa o curiosidad.",
+    "german": "Foto des Gesichts eines Kätzchens, das sehr nahe an der Kamera aufgenommen wurde. Es ist wackelig. Seine Augen sind weit und sein Mund leicht geöffnet, was ein Gefühl der Überraschung oder Neugier hervorruft."
+  },
+  {
+    "id": "0319",
+    "file": "https://i.imgur.com/SYDxEDk.jpg",
+    "portuguese": "Foto de um cão labrador olhando para a câmera de cima para baixo. Ele tem um olhar curioso, com a cabeça um pouco inclinada.",
+    "english": "Photo of a labrador dog looking at the camera from above. He has a curious look in his eyes, with his head tilted a little.",
+    "spanish": "Foto de un perro labrador mirando a la cámara desde arriba. Tiene una mirada curiosa en sus ojos, con la cabeza un poco inclinada.",
+    "german": "Foto eines Labrador-Hundes, der die Kamera von oben betrachtet. Er hat einen neugierigen Ausdruck in seinen Augen, mit leicht geneigtem Kopf."
+  },
+  {
+    "id": "0320",
+    "file": "https://i.imgur.com/1AqT5TT.png",
+    "portuguese": "Foto de um gato laranja com uma cauda laranja de sereia. Ele está deitado enconstado numa janela e parece não estar gostando muito da fantasia.",
+    "english": "Photo of an orange cat with an orange mermaid tail. He's lying against a window and doesn't seem to be enjoying the costume very much.",
+    "spanish": "Foto de un gato naranja con cola de sirena naranja. Está recostado contra una ventana y no parece estar disfrutando mucho el disfraz.",
+    "german": "Foto einer orangefarbenen Katze mit einem orangefarbenen Meerjungfrauenschwanz. Er liegt an einem Fenster und scheint das Kostüm nicht besonders zu genießen."
+  },
+  {
+    "id": "0321",
+    "file": "https://i.imgur.com/v83dakH.jpg",
+    "portuguese": "Foto de perto de um gato laranja. Ele está sentado na pia do banheiro e parece estar cheirando a câmera.",
+    "english": "Close-up photo of an orange cat. He's sitting on the bathroom sink and seems to be sniffing at the camera.",
+    "spanish": "Foto de primer plano de un gato naranja. Está sentado en el lavabo del baño y parece oler la cámara.",
+    "german": "Nahaufnahmefoto einer orangefarbenen Katze. Er sitzt auf dem Waschbecken im Badezimmer und scheint in die Kamera zu schnüffeln."
+  },
+  {
+    "id": "0322",
+    "file": "https://i.imgur.com/WTbmajb.jpg",
+    "portuguese": "Foto de um gato branco e laranja usando umsa camisa amarela do Brasil, com a parte das costas com a bandeira do Brasil e alguns detalhes verdes. Ele está em cima de uma cama.",
+    "english": "Photo of a white and orange cat wearing a yellow Brazilian shirt, with the Brazilian flag on the back and some green details. He is on top of a bed.",
+    "spanish": "Foto de un gato blanco y naranja con una camiseta amarilla de Brasil, con la bandera de Brasil en la espalda y algunos detalles en verde. Está encima de una cama.",
+    "german": "Foto einer weiß-orangefarbenen Katze, die ein gelbes brasilianisches Hemd trägt, mit der brasilianischen Flagge auf dem Rücken und einigen grünen Details. Er liegt auf einem Bett."
+  },
+  {
+    "id": "0323",
+    "file": "https://i.imgur.com/mjRCt90.jpg",
+    "portuguese": "Foto de um gato preto sentado usando uma echarpe amarela e verde do Brasil. Seus olhos amarelo-esverdeados olham para cima. O fundo é uma janela",
+    "english": "Photo of a sitting black cat wearing a yellow and green scarf from Brazil. His yellow-green eyes look up. The background is a window",
+    "spanish": "Foto de un gato negro sentado con una bufanda amarilla y verde de Brasil. Sus ojos amarillo verdosos miran hacia arriba. el fondo es una ventana",
+    "german": "Foto einer sitzenden schwarzen Katze, die einen gelb-grünen Schal aus Brasilien trägt. Seine gelbgrünen Augen blicken nach oben. Der Hintergrund ist ein Fenster"
+  },
+  {
+    "id": "0324",
+    "file": "https://i.imgur.com/DXJE1Jl.jpg",
+    "portuguese": "Foto de um Yorkshire usando um crocs branco como chapéu. Ele é peludinho, marrom, encara a câmera de frente com os olhos pretos e mostra a língua. Usa uma coleira vermelha. O fundo é uma parede branca.",
+    "english": "Photo of a Yorkshire terrier wearing a white crocs hat. He is furry, brown, faces the camera head on with black eyes and sticks out his tongue. He wears a red collar. The background is a white wall.",
+    "spanish": "Foto de un Yorkshire terrier con un sombrero de crocs blanco. Es peludo, moreno, mira de frente a la cámara con ojos negros y saca la lengua. Lleva un collar rojo. El fondo es una pared blanca.",
+    "german": "Foto eines Yorkshire-Terriers, der einen weißen Crocs-Hut trägt. Er ist pelzig, braun, blickt mit schwarzen Augen in den Kamerakopf und streckt die Zunge heraus. Trägt einen roten Kragen. Der Hintergrund ist eine weiße Wand."
+  },
+  {
+    "id": "0325",
+    "file": "https://i.imgur.com/9NbddBv.jpg",
+    "portuguese": "Foto de um pato e uma capivara se encarando. A capivara está na esquerda, com uma das patas para a frente como se estivesse avançando, e o pato, branco, está na direita, olhando de forma ameaçadora. Estão na terra.",
+    "english": "Photo of a duck and a capybara facing each other. The capybara is on the left, with one of its paws forward as if advancing, and the duck, white, is on the right, looking menacingly. They are on earth.",
+    "spanish": "Foto de un pato y un carpincho uno frente al otro. El capibara está a la izquierda, con una de sus patas hacia adelante como si avanzara, y el pato, blanco, está a la derecha, mirando amenazante. Ellos están en la tierra.",
+    "german": "Foto einer Ente und eines Capybara, die sich gegenüberstellen. Das Capybara ist auf der linken Seite, mit einer seiner Pfoten nach vorne, als würde es vorankommen, und die Ente, weiß, ist auf der rechten Seite und sieht bedrohlich aus. Sie sind auf der Erde."
+  },
+  {
+    "id": "0326",
+    "file": "https://i.imgur.com/f14SsTp.jpg",
+    "portuguese": "Foto de uma capivara num rio com apenas a cabeça e um pedaço das costas para fora. Em cima dela, um pássaro preto, como se a capivara fosse um barco.",
+    "english": "Photo of a capybara in a river with just the head and part of the back sticking out. On top of it, a black bird, as if the capybara were a boat.",
+    "spanish": "Foto de un carpincho en un río del que sobresale sólo la cabeza y parte de la espalda. Encima, un pájaro negro, como si el carpincho fuera un barco.",
+    "german": "Foto eines Wasserschweins in einem Fluss, bei dem nur der Kopf und ein Teil des Rückens herausragen. Darauf ein schwarzer Vogel, als wäre das Capybara ein Boot."
+  },
+  {
+    "id": "0327",
+    "file": "https://i.imgur.com/IE4sTty.jpg",
+    "portuguese": "Foto de dois coelhinhos (muito pequenininhos) dormindo, um em cima do outro. O de baixo é branco e está virado para a câmera. O de cima é bege e ele se apoia na cabeça do outro. O fundo é um sofá.",
+    "english": "Photo of two bunnies (very tiny) sleeping, one on top of the other. The bottom one is white and faces the camera. The top one is beige and it rests on the other's head. The background is a sofa.",
+    "spanish": "Foto de dos conejitos (muy pequeños) durmiendo, uno encima del otro. El de abajo es blanco y mira hacia la cámara. El de arriba es beige y descansa sobre la cabeza del otro. El fondo es un sofá.",
+    "german": "Foto von zwei Häschen (sehr klein), die übereinander schlafen. Der untere ist weiß und zeigt zur Kamera. Das obere ist beige und ruht auf dem Kopf des anderen. Der Hintergrund ist ein Sofa."
+  },
+  {
+    "id": "0328",
+    "file": "https://i.imgur.com/VCw7FBU.jpg",
+    "portuguese": "Foto de um gatinho bege com um chapéu do Pikachu. Ele está com cara de bravo, virado para a direita. O Pikachu é um pokemon amarelo com bochecas rosas e uma \"orelha\" pontuda.",
+    "english": "Photo of a beige kitten wearing a Pikachu hat. He's looking angry, facing right. Pikachu is a yellow pokemon with pink cheeks and a pointy \"ear\".",
+    "spanish": "Foto de un gatito beige con un gorro de Pikachu. Se ve enojado, mirando a la derecha. Pikachu es un Pokémon amarillo con mejillas rosadas y una \"oreja\" puntiaguda.",
+    "german": "Foto eines beigefarbenen Kätzchens, das einen Pikachu-Hut trägt. Er sieht wütend aus und blickt nach rechts. Pikachu ist ein gelbes Pokémon mit rosa Wangen und einem spitzen \"Ohr\"."
+  },
+  {
+    "id": "0329",
+    "file": "https://i.imgur.com/urhbK3v.jpg",
+    "portuguese": "Foto de um gato preso na tela de uma janela, tirada da janela seguinte. Ele faz cara de quem está reclamando (miando), com um dos olhos abertos e o outro semi-fechado prensado à tela.",
+    "english": "Photo of a cat trapped in a window screen, taken from the next window. He makes a complaining face (meowing), with one eye open and the other half-closed pressed to the screen.",
+    "spanish": "Foto de un gato atrapado en la pantalla de una ventana, tomada desde la ventana de al lado. Hace cara de queja (maullido), con un ojo abierto y el otro medio cerrado pegado a la pantalla.",
+    "german": "Foto einer Katze, die in einem Fenstergitter gefangen ist, aufgenommen vom nächsten Fenster. Er macht ein klagendes Gesicht (Miauen), wobei er ein Auge offen und das andere halb geschlossen auf den Bildschirm drückt."
+  },
+  {
+    "id": "0330",
+    "file": "https://i.imgur.com/rcwmR6X.jpg",
+    "portuguese": "Foto de um gato bege com o focinho branco. Ele está atrás de grades, encarando a câmera com seus olhos amarelos. À sua frente, uma placa com o nome Charlie.",
+    "english": "Photo of a beige cat with a white muzzle. He is behind bars, staring at the camera with his yellow eyes. In front of him, a plaque with the name Charlie.",
+    "spanish": "Foto de un gato beige con hocico blanco. Está tras las rejas, mirando a la cámara con sus ojos amarillos. Frente a ti, una placa con el nombre de Charlie.",
+    "german": "Foto einer beige Katze mit einer weißen Schnauze. Er sitzt hinter Gittern und starrt mit seinen gelben Augen in die Kamera. Vor Ihnen eine Tafel mit dem Namen Charlie."
+  },
+  {
+    "id": "0331",
+    "file": "https://i.imgur.com/WZ2DHNh.jpg",
+    "portuguese": "Foto de um crocodilo em cima de uma boia em formato de crocodilo, em uma piscinha. A boia está virada para a direita e ele está deitado para a esquerda, de modo que sua cabeça está no rabo da boia de crocodilo.",
+    "english": "Photo of a crocodile on top of a crocodile-shaped float in a pool. The float is facing to the right and he is lying to the left, so his head is on the tail of the crocodile float.",
+    "spanish": "Foto de un cocodrilo encima de un flotador con forma de cocodrilo en una piscina. El flotador mira hacia la derecha y él está acostado hacia la izquierda, por lo que su cabeza está en la cola del cocodrilo.",
+    "german": "Foto eines Krokodils auf einem krokodilförmigen Schwimmer in einem Pool. Der Schwimmer zeigt nach rechts und er liegt nach links, sodass sein Kopf auf dem Schwanz des Krokodils liegt."
+  },
+  {
+    "id": "0332",
+    "file": "https://i.imgur.com/wMtKZ0A.jpg",
+    "portuguese": "Foto de um gatinho filhote bege com detalhes brancos. Ele está em cima de um tronco de árvore, virado para a direita, e uma mão branca encosta o dedo no topo de sua testa. Seus olhinhos estão fechados e seu rabinho erguido forma um gancho. O fundo mostra uma casa e algumas árvores e está de dia.",
+    "english": "Photo of a beige kitten with white details. He is on top of a tree trunk, facing to the right, and a white hand touches the top of his forehead. Its eyes are closed and its tail is raised and forms a hook. The background shows a house and some trees and it's daytime.",
+    "spanish": "Foto de un gatito beige con detalles en blanco. Está encima del tronco de un árbol, mirando hacia la derecha, y una mano blanca toca la parte superior de su frente. Sus ojos están cerrados y su cola está levantada y forma un gancho. El fondo muestra una casa y algunos árboles y es de día.",
+    "german": "Foto eines beige Kätzchens mit weißen Details. Er steht auf einem Baumstamm, blickt nach rechts, und eine weiße Hand berührt seine Stirn. Seine Augen sind geschlossen und sein Schwanz ist angehoben und bildet einen Haken. Der Hintergrund zeigt ein Haus und einige Bäume und es ist Tag."
+  },
+  {
+    "id": "0333",
+    "file": "https://i.imgur.com/mld2stq.jpg",
+    "portuguese": "Foto de um cachorrinho bege, parece ser um labrador. Ele está no colo, com cara de sonolento, e usa um chapéu de tubarão cinza, de modo que parece que o tubarão está comendo sua cabeça. O fundo é um teto branco de um quarto.",
+    "english": "Photo of a beige puppy, it seems to be a labrador. He's on your lap, looking sleepy, and he's wearing a gray shark hat, so it looks like the shark is eating his head. The background is a white bedroom ceiling.",
+    "spanish": "Foto de un cachorro beige, parece ser un labrador. Está en tu regazo, luce somnoliento y lleva un sombrero de tiburón gris, por lo que parece que el tiburón le está comiendo la cabeza. El fondo es el techo de un dormitorio blanco.",
+    "german": "Foto eines beigen Welpen, es scheint ein Labrador zu sein. Er liegt auf deinem Schoß, sieht verschlafen aus und trägt einen grauen Haifischhut, also sieht es so aus, als ob der Hai seinen Kopf frisst. Der Hintergrund ist eine weiße Schlafzimmerdecke."
+  },
 ]
 
 module.exports.data = data

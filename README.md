@@ -13,7 +13,7 @@
 Welcome to the Alt Pets API! A collection of pet images with alt text!
 
 - Monthly updates. 
-- Currently **260** images.
+- Currently **333** images.
 - More languages coming in the future.
 
 Feel free to submit your pet to our <a href="https://twitter.com/altbichinhos">Tweet account.</a> Pre-writen alt text are aways apretiated ♥. 
@@ -26,7 +26,7 @@ We do not own the images, we just added alt text. If you own an image and want i
 - <img alt="Portuguese (BR) - 100%" src="https://img.shields.io/badge/Portuguese%20(BR)-100%25-green">
 - <img alt="English (US) - 100%" src="https://img.shields.io/badge/English%20(US)-100%25-green">
 - <img alt="Spanish (LATAM) - 100%" src="https://img.shields.io/badge/Spanish%20(LATAM)-100%25-green">
-- <img alt="German - beta" src="https://img.shields.io/badge/German-beta-blue"> - may be some errors.
+- <img alt="German - 100%" src="https://img.shields.io/badge/German-100%25-green">
 
 ### Contributions with translation:
 - Spanish:
