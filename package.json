@@ -1,15 +1,37 @@
 {
   "name": "altbichinhos",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "A collection of pet images with alt text for accessibility purposes.",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "npx eslint . --ext .js",
+    "lint-fix": "npx eslint . --ext .js --fix",
+    "test": "jest --verbose ./test",
+    "test:coverage": "jest --verbose ./test --coverage",
+    "prepare": "husky install"
   },
   "author": "ashtrindade",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "animals",
+    "pets",
+    "alt-text",
+    "alt",
+    "acessibility"
+  ],
   "dependencies": {
-    "express": "^4.18.1",
-    "nodemon": "^2.0.19"
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "mongoose": "7.4.2",
+    "swagger-ui-express": "5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.46.0",
+    "husky": "8.0.3",
+    "jest": "29.6.2",
+    "nodemon": "3.0.1",
+    "supertest": "6.3.3"
   }
 }
