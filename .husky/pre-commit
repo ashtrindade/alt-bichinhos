@@ -2,4 +2,8 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 echo '# Lint'
-npm run lint-fix
+npm run lint
+
+echo '# Start Check Dependencies'
+npm run check-dependencies
+echo 'End Check Dependencies'
