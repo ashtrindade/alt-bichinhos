@@ -19,7 +19,7 @@ jobs:
       run: npm ci
 
     - name: Run Jest tests
-      run: npx jest --verbose ./test/unit/ --coverage
+      run: npx jest --verbose ./test --coverage
 
     - name: Publish coverage report
       uses: MishaKav/jest-coverage-comment@main
