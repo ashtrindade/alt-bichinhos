@@ -31,6 +31,13 @@ const routes = (app: Application) => {
       userRouter
     )
 
+    .get(
+      '/api/image/:id',
+      rateLimiter,
+      ImageController.getImageById,
+      userRouter
+    )
+
     .post(
       '/api/admin/image',
       rateLimiter,
