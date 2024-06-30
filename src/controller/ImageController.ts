@@ -71,6 +71,32 @@ export default class ImageController {
   }
 
   /**
+   * Public method to get image by id
+   * @returns Json response
+   */
+  public static readonly getImageById = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
+    try {
+      const query: Get = GetImageService.execute(req, next)
+      if (!query?.data) return
+
+      const result = await collections.images.findOne(query.data)
+
+      if (result) {
+        if (query.language) {
+          result.alt = result.alt[query.language]
+        }
+        res.status(HttpStatus.code.OK).json(result)
+      } else {
+        next(new NotFound(HttpStatus.message[404]))
+        next()
+      }
+      Log.i('ImageController :: Calling Endpoint :: GetImageById')
+    } catch (error) {
+      Log.e(`${error}`, 'ImageController :: GetImageById')
+    }
+  }
+
+  /**
    * Admin method to create image
    */
   public static readonly createImage = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
